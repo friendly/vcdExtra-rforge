@@ -1,0 +1,4 @@
+.project
+.svn
+.gitignore
+^.*\.Rproj$
