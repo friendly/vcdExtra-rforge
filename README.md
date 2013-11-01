@@ -1,5 +1,5 @@
 vcdExtra: Extensions and additions to vcd: Visualizing Categorical Data
-=======================================================================
+-----------------------------------------------------------------------
 
 This package provides additional data sets, documentation, and
 a few functions designed to extend the [vcd](http://CRAN.R-project.org/package=vcd) package for *Visualizing Categorical Data*
