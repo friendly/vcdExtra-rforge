@@ -37,4 +37,9 @@ models.
 specification of terms in model formulas using
 `Symm()`,
 `Diag()`, 
-`Topo(), etc. in the [gnm](http://CRAN.R-project.org/package=gnm).
+`Topo(),` etc. in the [gnm](http://CRAN.R-project.org/package=gnm) package.
+
+* In addition, there are many new data sets, a tutorial vignette,
+_Working with categorical data with R and the vcd package_, `vignette("vcd-tutorial", package = "vcdExtra")`,
+and a few useful utility functions for manipulating categorical data sets and working with models for
+categorical data. 
